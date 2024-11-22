@@ -20,9 +20,9 @@
 
      Exemplos de comandos na serial:
 
-     esc1 0
+     `esc1 0
      esc1 32
      esc1 40
      esc2 40
      esc3 40
-     esc4 40
+     esc4 40`
