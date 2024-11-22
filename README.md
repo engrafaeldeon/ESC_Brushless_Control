@@ -18,11 +18,11 @@ __Procedimento de Uso__
      
      Recomendo que NÃO use as hélices nos motores para realização dos testes e, mesmo assim tome cuidado fixe os motores a uma base pesada o suficiente para que a força de torque do mesmo seja anulada facilmente pela fixação da base, suba os valores gradativamente até pegar o jeito e ter uma noção da força exercida nos motores ao trocar os valores pela serial)
 
-     Exemplos de comandos na serial:
+__Exemplos de comandos na serial:__
 
-     `esc1 0
-     esc1 32
-     esc1 40
-     esc2 40
-     esc3 40
-     esc4 40`
+`esc1 0`
+`esc1 32`
+`esc1 40`
+`esc2 40`
+`esc3 40`
+`esc4 40`
