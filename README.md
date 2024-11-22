@@ -18,7 +18,7 @@ __Procedimento de Uso__
      
 ___💥💥💥Recomendo que NÃO use as hélices nos motores para realização dos testes e, mesmo assim tome cuidado fixe os motores a uma base pesada o suficiente para que a força de torque do mesmo seja anulada facilmente pela fixação da base, suba os valores de carga do comando na serial gradativamente até pegar o jeito e ter uma noção da força exercida nos motores ao trocar os valores pela serial)___
 
-__Exemplos de comandos na serial:__
+__Exemplos de comandos na serial: (os valores do parametro fornecido vão de 0 à 100, significam a porcentagem de carga no ESC)__
 
 `esc1 0`
 `esc1 32`
