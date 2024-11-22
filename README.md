@@ -27,4 +27,4 @@ __Exemplos de comandos na serial:__
 `esc3 40`
 `esc4 40`
 
-![picture alt](http://via.placeholder.com/200x150 "Esquematico de conexão dos fios")
+![picture alt](Schematico.png "Esquematico de conexão dos fios")
