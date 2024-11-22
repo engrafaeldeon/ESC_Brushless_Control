@@ -27,4 +27,6 @@ __Exemplos de comandos na serial:__
 `esc3 40`
 `esc4 40`
 
+__Exemplo do Esquemático de conexão dos fios para um ESC conectado ao pino 9 do arduino:__
+
 ![picture alt](Schematico.png "Esquematico de conexão dos fios")
