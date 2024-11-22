@@ -30,3 +30,5 @@ __Exemplos de comandos na serial:__
 __Exemplo do Esquemático de conexão dos fios para um ESC conectado ao pino 9 do arduino:__
 
 ![picture alt](Schematico.png "Esquematico de conexão dos fios")
+
+:exclamation: Feito por diversão e disponibilizado para a comunidade. 😎
