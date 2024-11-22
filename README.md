@@ -1,7 +1,8 @@
 # ESC_Brushless_Control
- Arduino Control for ESC Brushless RC Motor
 
- O firmware habilita o arduino para controlar 4 ESCs via comando serial sem a necessidade de ter um potenciometro para simular a aceleração.
+## Arduino Control for ESC Brushless RC Motor ##
+
+*O firmware habilita o arduino para controlar 4 ESCs via comando serial sem a necessidade de ter um potenciometro para simular a aceleração.*
 
  Exemplo de Uso:
 
