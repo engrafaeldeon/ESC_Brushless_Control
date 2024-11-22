@@ -16,7 +16,7 @@ ___OBS.: (você pode usar somente um ESC em qualquer uma das portas do arduino c
 * Digite o comando "esc1 0" por exemplo, isso enviará o comando para o ESC1 com uma carga de 0% de rotação e assim por diante;
 ___OBS.: (dependendo do ESC e do motor acoplado a este, a rotação só começará com 32% de carga no ESC escolhido)___
      
-___💥💥💥Recomendo que NÃO use as hélices nos motores para realização dos testes e, mesmo assim tome cuidado fixe os motores a uma base pesada o suficiente para que a força de torque do mesmo seja anulada facilmente pela fixação da base, suba os valores gradativamente até pegar o jeito e ter uma noção da força exercida nos motores ao trocar os valores pela serial)___
+___💥💥💥Recomendo que NÃO use as hélices nos motores para realização dos testes e, mesmo assim tome cuidado fixe os motores a uma base pesada o suficiente para que a força de torque do mesmo seja anulada facilmente pela fixação da base, suba os valores de carga do comando na serial gradativamente até pegar o jeito e ter uma noção da força exercida nos motores ao trocar os valores pela serial)___
 
 __Exemplos de comandos na serial:__
 
