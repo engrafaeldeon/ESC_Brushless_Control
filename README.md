@@ -4,7 +4,7 @@
 
 *O firmware habilita o arduino para controlar 4 ESCs via comando serial sem a necessidade de ter um potenciometro para simular a aceleração.*
 
- Exemplo de Uso:
+__Procedimento de Uso__
 
 * Abra o Código no seu Arduino IDE(recomendado por ter uma interface serial mais funcional que o plataformio)
 * Compile e Carregue o código no seu Arduino;
