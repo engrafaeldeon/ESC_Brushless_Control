@@ -31,4 +31,4 @@ __Exemplo do Esquemático de conexão dos fios para um ESC conectado ao pino 9 d
 
 ![picture alt](Schematico.png "Esquematico de conexão dos fios")
 
-:exclamation: Feito por diversão e disponibilizado para a comunidade. 😎
+🥷 Feito por diversão e disponibilizado para a comunidade. 😎
